@@ -1,0 +1,9 @@
+.container {
+    margin: auto;
+    position: relative;
+}
+
+#canvas1 {
+    background-color: #e2a345f5;
+}
+
